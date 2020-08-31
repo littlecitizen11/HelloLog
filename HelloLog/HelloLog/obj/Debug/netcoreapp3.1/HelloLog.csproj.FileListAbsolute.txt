@@ -1,0 +1,16 @@
+C:\Code\HelloLog\HelloLog\HelloLog\bin\Debug\netcoreapp3.1\HelloLog.exe
+C:\Code\HelloLog\HelloLog\HelloLog\obj\Debug\netcoreapp3.1\HelloLog.csprojAssemblyReference.cache
+C:\Code\HelloLog\HelloLog\HelloLog\obj\Debug\netcoreapp3.1\HelloLog.AssemblyInfoInputs.cache
+C:\Code\HelloLog\HelloLog\HelloLog\obj\Debug\netcoreapp3.1\HelloLog.AssemblyInfo.cs
+C:\Code\HelloLog\HelloLog\HelloLog\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Code\HelloLog\HelloLog\HelloLog\obj\Debug\netcoreapp3.1\HelloLog.csproj.CopyComplete
+C:\Code\HelloLog\HelloLog\HelloLog\bin\Debug\netcoreapp3.1\HelloLog.deps.json
+C:\Code\HelloLog\HelloLog\HelloLog\bin\Debug\netcoreapp3.1\HelloLog.runtimeconfig.json
+C:\Code\HelloLog\HelloLog\HelloLog\bin\Debug\netcoreapp3.1\HelloLog.runtimeconfig.dev.json
+C:\Code\HelloLog\HelloLog\HelloLog\bin\Debug\netcoreapp3.1\HelloLog.dll
+C:\Code\HelloLog\HelloLog\HelloLog\bin\Debug\netcoreapp3.1\HelloLog.pdb
+C:\Code\HelloLog\HelloLog\HelloLog\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Code\HelloLog\HelloLog\HelloLog\obj\Debug\netcoreapp3.1\HelloLog.csproj.CoreCompileInputs.cache
+C:\Code\HelloLog\HelloLog\HelloLog\obj\Debug\netcoreapp3.1\HelloLog.dll
+C:\Code\HelloLog\HelloLog\HelloLog\obj\Debug\netcoreapp3.1\HelloLog.pdb
+C:\Code\HelloLog\HelloLog\HelloLog\obj\Debug\netcoreapp3.1\HelloLog.genruntimeconfig.cache
